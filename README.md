@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![Decorative image.]([Images/14-challenge-image.png](https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FIN-PT-06-2023-U-LOLC/-/raw/main/14-Algorithmic-Trading/Homework/Instructions/Images/14-challenge-image.png))
+![image.](pics/[Images/14-challenge-image.png](https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FIN-PT-06-2023-U-LOLC/-/raw/main/14-Algorithmic-Trading/Homework/Instructions/Images/14-challenge-image.png))
 
 
 ## Background
