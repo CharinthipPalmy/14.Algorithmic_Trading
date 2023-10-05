@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![image.](pics/14-challenge-image.png))
+![image.](pics/14-challenge-image.png)
 
 
 ## Background
